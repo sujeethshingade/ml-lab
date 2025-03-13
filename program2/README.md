@@ -1,0 +1,16 @@
+# Output
+
+Loading California Housing dataset...
+
+Computing correlation matrix...
+
+Creating correlation heatmap...
+
+Creating pair plot (this may take a moment)...
+
+Analyzing strong correlations...
+
+Strong correlations found (|correlation| > 0.5):
+Latitude and Longitude: -0.925 (negative correlation)
+AveRooms and AveBedrms: 0.848 (positive correlation)
+MedInc and PRICE: 0.688 (positive correlation)
